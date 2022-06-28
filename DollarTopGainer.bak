@@ -364,6 +364,6 @@ Response:
     }
 }
 
-R1.The symbol string should be one of the values of mobile response data
-R2.Backend call: XML files. Need to prepare Python xml script. can also be converted from xml to json.
+
+Backend call: XML files. Need to prepare Python xml script. can also be converted from xml to json.
 every data will be there. all values of symbols will be there and we need to compare that woith this. And it will be nearly same Approx.5%
